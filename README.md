@@ -1,0 +1,2 @@
+# NFC-Profiles
+NFC Profiles is an Android application that allows you to create multiple settings profiles and link them to NFC tags. Once a linked NFC tag is discovered, the settings are applied. Optionally the changes can be undone if the tag disappears. For instance, you could place an NFC tag in your car and let NFC profiles automatically open a navigation app and turn on Bluetooth for your headset.
